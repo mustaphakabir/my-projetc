@@ -6,4 +6,5 @@
 /build/
 /vendor/
 /bin/
+/nbproject/
 /composer.phar
